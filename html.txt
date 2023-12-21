@@ -1,0 +1,17 @@
+<html>
+	<head>
+	<title>my website</title>
+	</head>
+	<body
+	<h1>Name:shaik dariyabhi<br>class:cse_4<br>Roll.no:323103310221<br></h1>
+	<h2>about laptops</h2>
+	<font face="cambria" size="+5"color="yello">
+	<image width="60%" src="image.png">
+	<p>Engineering students know how important it is to choose the best laptop for the job. They need to offer optimal performance without sacrificing too much portability (or breaking the bank). That's why so many opt for the best mobile workstations and the best gaming laptops, with their emphasis on raw power and graphical fidelity. 
+
+Our team have benchmarked the best laptops for engineering students from top brands like Apple, HP, Dell, and Asus. As part of our extensive review process, we've dug into each one, comparing specs, speed, size, and weight. From aerospace to mechanical, electrical to software engineering, we've tested a diverse range of engineering laptops primed to enhance productivity, creativity, and success throughout your course.</p>
+	<image width="40%" src="image.jpg">
+	<br>see how important the laptop is for our studies especially for students </br>
+	<image width="30%" src="laptop.png">
+	</body>
+</html>
